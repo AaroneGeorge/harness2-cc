@@ -1,0 +1,8 @@
+{
+  "criteria": [
+    "output/RELEASE_NOTES.md has the headings `## Breaking Changes`, `## Features`, `## Bug Fixes` and `## Documentation`, in that order.",
+    "All 10 non-breaking feat commits appear under Features, all 10 fix commits under Bug Fixes and all 6 docs commits under Documentation, each exactly once and under no other heading.",
+    "No chore or refactor commit appears anywhere, and the file contains no commit hashes and no raw `type(scope):` prefixes such as `feat(api):`.",
+    "Breaking Changes lists the auth change and tells the reader to send API keys in the X-API-Key header instead of the query string, and every bullet in the file starts with its scope in bold."
+  ]
+}

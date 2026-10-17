@@ -1,0 +1,15 @@
+harness2-claude-code
+Copyright 2026 harness2-claude-code contributors
+
+This project is a port of Harness² (https://github.com/google-research/harness2),
+Copyright 2026 Google LLC, licensed under the Apache License, Version 2.0.
+The method (Propose–Probe–Compose task-level recursion, anonymised selection,
+the per-domain experience library) and the prompts in harness2/core/prompts.py
+are adapted from that work:
+
+  Xu et al., "Harness²: Recursive Agent Harnessing for an Open World",
+  arXiv:2610.14224 (2026).
+
+Files that began as upstream code keep the upstream copyright header and carry a
+modification notice. All other code is original to this project. Both are
+distributed under the Apache License, Version 2.0 (see LICENSE).

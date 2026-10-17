@@ -1,0 +1,40 @@
+9f3c2a1 feat(api): add cursor-based pagination to GET /projects
+4b7e0d2 fix(api): return 404 instead of 500 for unknown project ids
+c1a9e55 chore(deps): bump urllib3 from 2.2.1 to 2.2.3
+7d21f08 docs(readme): document the new pagination parameters
+e05b3c9 refactor(db): extract connection pooling into its own module
+2a6f4e7 feat(cli): add `projects export --format csv`
+b8d0c13 fix(cli): respect NO_COLOR when printing tables
+5e4a9f2 chore(ci): cache pip downloads between workflow runs
+0c7b1d6 feat(auth)!: drop API keys in query strings; send them in the X-API-Key header instead
+f6e2a80 fix(auth): refresh expired tokens before retrying a request
+3d9c5b4 refactor(api): move request validation into middleware
+81f0e3a docs(api): add examples for every error response
+a4c6d19 feat(web): show last sync time on the dashboard
+6b2e7f5 fix(web): keep the sidebar collapsed state across page reloads
+d7a3c80 chore(release): prepare 2.4.0-rc.1
+1e8f4b2 feat(api): add `updated_since` filter to GET /tasks
+9a0d6c7 fix(db): close idle connections after 5 minutes
+c3f1e94 refactor(cli): replace argparse subcommand table with a registry
+5f7b2d8 docs(contributing): explain how to run the integration tests locally
+e9c4a06 feat(notifications): send a daily digest email for overdue tasks
+2b8e1f3 fix(notifications): stop sending duplicate emails when a task is reassigned
+7c0a5d4 chore(deps): bump pytest from 8.1.0 to 8.3.2
+4e6d9b1 feat(web): add keyboard shortcut `g p` to jump to projects
+b1f7c32 fix(export): escape commas and quotes in CSV export fields
+8d3a0e5 refactor(web): split dashboard.tsx into smaller components
+0f5c8a7 docs(changelog): link each release to its milestone
+6a9e2c4 feat(export): include task assignees in CSV export
+d2b4f61 fix(api): accept ISO 8601 dates with a trailing Z
+3c7e9a0 chore(lint): enable ruff rule set I for import sorting
+a8f1d25 feat(auth): support sign-in with GitHub
+5d0b3e8 fix(web): show an error banner when the session expires
+e7a2c91 refactor(auth): rename TokenStore to CredentialStore
+1b9f6d0 chore(docker): use python:3.12-slim as the base image
+f4c8e27 docs(deploy): add a section on rotating secrets
+8e3d1a6 feat(cli): add `--quiet` flag to suppress progress output
+2c5a7f9 fix(cli): exit with code 2 on invalid arguments
+b6e0d48 refactor(db): remove the unused legacy_migrations table helpers
+7f1c3b5 chore(release): bump version to 2.4.0
+c9d2e83 docs(api): describe rate limit headers
+0a4f9e6 feat(api): expose rate limit headers on every response

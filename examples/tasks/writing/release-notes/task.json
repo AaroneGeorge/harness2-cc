@@ -1,0 +1,5 @@
+{
+  "deliverables": ["output/RELEASE_NOTES.md"],
+  "timeout_s": 900,
+  "max_budget_usd": 5
+}

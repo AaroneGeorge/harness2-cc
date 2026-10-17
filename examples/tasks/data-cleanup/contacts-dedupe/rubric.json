@@ -1,0 +1,9 @@
+{
+  "criteria": [
+    "output/contacts_clean.csv starts with the header line exactly `name,email,phone,company`.",
+    "output/contacts_clean.csv has exactly 20 data rows below the header, and no email address appears in more than one row.",
+    "Every email in output/contacts_clean.csv is lowercase, has no surrounding whitespace, no `mailto:` prefix, no angle brackets and no display name.",
+    "In output/contacts_clean.csv the Priya Nair row has phone `555-0142` and the Tom Becker row has company `Adatum`.",
+    "output/notes.md states that there were 30 input rows and 20 output rows, and names normalised email as the rule for deciding two rows are the same contact."
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "deliverables": ["output/contacts_clean.csv", "output/notes.md"],
+  "timeout_s": 900,
+  "max_budget_usd": 5
+}

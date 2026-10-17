@@ -1,0 +1,31 @@
+name,email,phone,company
+Priya Nair,priya.nair@northwind.example,,Northwind Traders
+Marcus Lee,marcus.lee@fabrikam.example,555-0101,Fabrikam
+Ana Souza,ana.souza@contoso.example,555-0102,Contoso
+  priya nair ,Priya.Nair@Northwind.example,555-0142,Northwind Traders
+Tom Becker,tom.becker@adatum.example,555-0103,Adatum
+Lina Haddad,lina.haddad@tailspin.example,555-0104,Tailspin Toys
+Marcus Lee,  MARCUS.LEE@FABRIKAM.EXAMPLE ,555-0101,Fabrikam
+Kenji Watanabe,kenji.w@litware.example,555-0105,Litware
+Olivia Brown,olivia.brown@proseware.example,555-0106,Proseware
+Ana  Souza,mailto:ana.souza@contoso.example,,Contoso
+Diego Ramirez,diego.ramirez@wingtip.example,555-0107,Wingtip
+Fatima Zahra,fatima.zahra@woodgrove.example,555-0108,Woodgrove Bank
+Tom Becker,<tom.becker@adatum.example>,555-0103,
+Sofia Rossi,sofia.rossi@lucerne.example,555-0109,Lucerne Publishing
+Noah Kim,noah.kim@relecloud.example,555-0110,Relecloud
+Lina Haddad,Lina Haddad <lina.haddad@tailspin.example>,555-0104,Tailspin Toys
+Ewa Kowalska,ewa.kowalska@alpine.example,555-0111,Alpine Ski House
+Samuel Okafor,samuel.okafor@coho.example,555-0112,Coho Winery
+KENJI WATANABE,kenji.w@litware.example,,Litware
+Grace Liu,grace.liu@margie.example,555-0113,Margie's Travel
+Olivia Brown,olivia.brown@proseware.example ,555-0106,Proseware
+Ahmed Hassan,ahmed.hassan@trey.example,555-0114,Trey Research
+Chloe Martin,chloe.martin@bellows.example,555-0115,Bellows College
+Diego Ramirez,MAILTO:Diego.Ramirez@Wingtip.example,555-0107,Wingtip
+Ivan Petrov,ivan.petrov@humongous.example,555-0116,Humongous Insurance
+Mei Chen,mei.chen@graphic.example,555-0117,Graphic Design Institute
+sofia rossi,SOFIA.ROSSI@LUCERNE.EXAMPLE,555-0109,Lucerne Publishing
+Lucas Moreau,lucas.moreau@fourth.example,555-0118,Fourth Coffee
+Hannah Weber,hannah.weber@blueyonder.example,555-0119,Blue Yonder Airlines
+Ahmed Hassan, ahmed.hassan@trey.example,555-0114,Trey Research
